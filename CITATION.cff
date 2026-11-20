@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "Please cite the preprint using the preferred citation below."
+title: "The Order of the Inertia Bound for Random Graphs"
+authors:
+  - family-names: Chen
+    given-names: Zhengbo
+    affiliation: "School of Mathematical Sciences, MOE-LSC, SHL-MAC, Shanghai Jiao Tong University, Shanghai 200240, China"
+  - family-names: Zhang
+    given-names: Xiao-Dong
+    affiliation: "School of Mathematical Sciences, MOE-LSC, SHL-MAC, Shanghai Jiao Tong University, Shanghai 200240, China"
+url: "https://github.com/chenzb911/The-Order-of-the-Inertia-Bound-for-Random-Graphs"
+version: "2026-11-20"
+keywords:
+  - inertia bound
+  - random graphs
+  - independence number
+  - Hermitian matrices
+  - spectral graph theory
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Chen
+      given-names: Zhengbo
+      affiliation: "School of Mathematical Sciences, MOE-LSC, SHL-MAC, Shanghai Jiao Tong University, Shanghai 200240, China"
+    - family-names: Zhang
+      given-names: Xiao-Dong
+      affiliation: "School of Mathematical Sciences, MOE-LSC, SHL-MAC, Shanghai Jiao Tong University, Shanghai 200240, China"
+  title: "The Order of the Inertia Bound for Random Graphs"
+  year: 2026
+  month: 11
+  notes: "Preprint; manuscript dated 20 November 2026."
+  url: "https://github.com/chenzb911/The-Order-of-the-Inertia-Bound-for-Random-Graphs"
